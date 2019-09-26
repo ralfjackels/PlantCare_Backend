@@ -38,9 +38,9 @@ raspi.url=http://${raspi.ip}:${raspi.port} <br>
 
 ## Authors
 
-- Ralf Jackels
 - Lorenz Josten
 - Evgeni Kozyr
 - Laura Yawira Lewinski
+- Ralf Jackels
 
 
