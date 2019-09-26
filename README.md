@@ -1,6 +1,5 @@
-# Kraeuterkiste - Backend
+# PlantCare - Backend
 
-This is the Backend to our "Kraeuterkiste" project. <br>
 It is the connection between Frontend and Raspberry Pi, enabling data exchange and handling HTTP-requests.
 
 ## Getting Started
