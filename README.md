@@ -42,4 +42,5 @@ raspi.url=http://${raspi.ip}:${raspi.port} <br>
 - Laura Yawira Lewinski
 - Ralf Jackels
 
-
+## Project impressions | Project Structure
+![Image](./src/images/projectstructure.JPG?raw=true)
